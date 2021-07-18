@@ -5,10 +5,10 @@
  function suma(a, b) {
      return a + b
  }
-
- let sum1;
- let sum2;
- let resultado = sum(sum1, sum2)
+ 
+ let a = 5;
+ let b = 5;
+ let resultado = suma(a, b);
  console.log(resultado)
 
  // Te has fijado que la función no tiene por que devolver el valor de una variable? Puede devolver cualquier evaluación de una expresión, en este caso, el resultado de evaluar a + b
