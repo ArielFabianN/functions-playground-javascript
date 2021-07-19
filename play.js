@@ -1,6 +1,6 @@
 // JavaScript define varias funciones globales
 // por ejemplo la función 'parseInt'. 
-// Esta función toma por agumento un valor.
+// Esta función toma por argumento un valor.
 // Transforma el valor del string en un number
 
 let soyUnString = '123';
